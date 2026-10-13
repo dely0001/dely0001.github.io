@@ -1,6 +1,6 @@
-/*nav li:nth-child(1) {
+.hobbies li:nth-child(odd) {
     color:pink
-}*/
+}
 body {
     font-family: fantasy;
     font-size: 18px;
@@ -16,3 +16,4 @@ header, footer {
   max-width: 50%;
   height: auto; 
 }
+
