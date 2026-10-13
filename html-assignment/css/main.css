@@ -1,0 +1,10 @@
+/*nav li:nth-child(1) {
+    color:pink
+}*/
+body {
+    font-family: fantasy;
+    font-size: 18px;
+}
+header, footer {
+    background-color: rgb(248, 152, 200);
+}
