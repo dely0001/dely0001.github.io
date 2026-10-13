@@ -20,3 +20,19 @@ header, footer {
 .hobbies li {
   list-style-type: square;
 }
+
+nav li{
+    list-style-type: none;
+}
+a:link, a:visited {
+    text-decoration: none;
+    background-color: rgb(179, 146, 255);
+    border-style: dotted;
+    border-radius: 10%;
+    border-color:rgb(114, 206, 255)
+    color:rgb(229, 1, 168)
+}
+
+a:hover, a:active {
+    background-color: rgb(185, 185, 185);
+}
