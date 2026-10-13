@@ -11,3 +11,7 @@ header, footer {
 .site-title {
     color:rgb(114, 9, 46) 
 }
+#image {
+  max-width: 100%;
+  height: auto;
+}
