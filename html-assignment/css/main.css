@@ -17,3 +17,6 @@ header, footer {
   height: auto; 
 }
 
+.hobbies li {
+  list-style-type: square;
+}
